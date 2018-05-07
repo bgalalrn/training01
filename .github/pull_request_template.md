@@ -1,7 +1,9 @@
 ## Are you ready to merge your code?
 Following checklist is to help you in making sure that your code updates are following LRN standards.
 
-Please update following checklist by adding X in square brackets [X]. 
+Please update following checklist by adding X in square brackets [X].
+
+**Note:** *If you feel that you have missed any of the following criteria then discard this pull request and please go back and update your code first and then create a new pull request.*
 
 
 ### Self Review
@@ -15,4 +17,4 @@ Please update following checklist by adding X in square brackets [X].
 - [ ] I have covered all the rest points / functions updated in this pull request 
 
 ### Additional Comments
-Add your commments here...
+Add your comments here...
